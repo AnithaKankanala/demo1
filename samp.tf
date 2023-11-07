@@ -1,4 +1,4 @@
-provider "aws" {
+provider "aws.ec2" {
   region     = "us-east-1"
 }
 
